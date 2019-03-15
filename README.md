@@ -1,2 +1,2 @@
 # nodesqz
-Node App with Sequelize &amp; Postgres
+Node App with Express, Sequelize &amp; Postgres

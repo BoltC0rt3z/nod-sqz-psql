@@ -1,0 +1,30 @@
+{
+  "name": "nod-sqz-psql",
+  "version": "1.0.0",
+  "description": "Node App with Sequelize &amp; Postgres",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BoltC0rt3z/nod-sqz-psql.git"
+  },
+  "author": "BoltC0rt3z",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BoltC0rt3z/nod-sqz-psql/issues"
+  },
+  "homepage": "https://github.com/BoltC0rt3z/nod-sqz-psql#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "pg": "^7.8.2",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
